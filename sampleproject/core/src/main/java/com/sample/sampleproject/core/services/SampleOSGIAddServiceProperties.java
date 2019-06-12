@@ -25,7 +25,7 @@ public @interface SampleOSGIAddServiceProperties {
 	
 	@AttributeDefinition(name="Drop Down properties",description="Drop Down",options = {
 		@Option(label="Days",value="days"),
-		@Option(label="Days",value="days")
+		@Option(label="Months",value="months")
 	})
 	String dropdownvalues();
 	
