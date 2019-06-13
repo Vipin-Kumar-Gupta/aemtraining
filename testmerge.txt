@@ -1,2 +1,3 @@
-Hello Test Merge
-Hello Changed - Bug Fixed
+This is uncommitted change.
+To check the use of git stash..suppose i am working on a file and in between something urgent comeup
+Change it again, do not add.
