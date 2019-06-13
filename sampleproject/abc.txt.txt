@@ -1,2 +1,3 @@
 This is abc xyz file
 I have added a new line which is not yet staged.
+Reset
