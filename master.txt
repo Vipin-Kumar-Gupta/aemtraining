@@ -1,2 +1,3 @@
+This is master file.
 This is master User A file.
-Changed by User A.
+Changed by User A and edited by User B
