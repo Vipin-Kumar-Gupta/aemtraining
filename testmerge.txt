@@ -1,4 +1,4 @@
 This is uncommitted change.
 To check the use of git stash..suppose i am working on a file and in between something urgent comeup
-Change it again, do not add.
+Change it again, Test do not add.
 Testign conflict.
