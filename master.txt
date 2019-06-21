@@ -1,3 +1,4 @@
 This is master file.
 This is master User A file.
 Changed by User A and edited by User B
+Change Committed in Second Branch - Commit 1.
